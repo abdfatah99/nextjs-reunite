@@ -1,4 +1,4 @@
 # nextjs-reunite
 Reunite with NextJS
 
-Strengthen NextJS
+Strengthen NextJS - Reunite
