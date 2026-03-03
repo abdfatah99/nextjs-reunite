@@ -1,4 +1,8 @@
 # nextjs-reunite
 Reunite with NextJS
 
-Strengthen NextJS - Reunite
+This project used to re-practice some knowledge of NextJS
+# Management
+
+Next To Work:
+- chapter 3: Optimizing fonts and Images
